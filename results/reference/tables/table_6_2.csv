@@ -1,0 +1,9 @@
+Problem,"(w,y,z)",Initial TR radius,f-TRFu,s-TRFi,c-TRFu,c-TRFi
+Eason,"(2,1,3)",1,19,19,6,6
+Wing Weight,"(2,1,8)",1,11,11,18,18
+Loeppky,"(3,1,4)",1,6,6,7,7
+Welded Beam,"(4,1,0)",1,27,275,12,12
+Himmelblau,"(3,2,5)",500,360,5862,32,23
+Colville,"(4,4,1)",500,24,24,43,43
+Six_BB_Chain,"(6,6,0)",1,162,162,186,204
+High_dim_sep_10,"(10,10,0)",1,230,230,1040,1300

@@ -1,0 +1,6 @@
+__pycache__/
+results/ftrfu_runs.csv
+results/classical_runs.csv
+results/logs/
+results/tables/
+results/figures/

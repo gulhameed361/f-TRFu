@@ -1,0 +1,534 @@
+****** Iteration 0 ******
+objectiveValue = 48.790287268080036
+feasibility = 0.16352133946387148
+trustRadius = 1.0
+stepNorm = 0
+*************************
+****** Iteration 1 ******
+objectiveValue = 48.05949677531771
+feasibility = 0.7280517481566324
+trustRadius = 0.04859726290413513
+stepNorm = 0.09719452580827026
+INFO: theta-type step
+*************************
+****** Iteration 2 ******
+objectiveValue = 48.22747873329348
+feasibility = 0.16080379206507978
+trustRadius = 0.024298642389658287
+stepNorm = 0.048597284779316574
+INFO: theta-type step
+*************************
+****** Iteration 3 ******
+objectiveValue = 48.35848871620591
+feasibility = 0.034370029524556145
+trustRadius = 0.012149329338965176
+stepNorm = 0.02429865867793035
+INFO: theta-type step
+*************************
+****** Iteration 4 ******
+objectiveValue = 48.38106972233716
+feasibility = 0.003171624733075973
+trustRadius = 0.006074674912893929
+stepNorm = 0.012149349825787858
+INFO: theta-type step
+*************************
+****** Iteration 5 ******
+objectiveValue = 48.3819897007526
+feasibility = 0.0010723585462368845
+trustRadius = 0.0030373359279223244
+stepNorm = 0.006074671855844649
+INFO: theta-type step
+*************************
+****** Iteration 6 ******
+objectiveValue = 48.3830529920113
+feasibility = 0.00014707301929917094
+trustRadius = 0.0010696113623682724
+stepNorm = 0.0021392227247365447
+INFO: theta-type step
+*************************
+****** Iteration 7 ******
+objectiveValue = 48.38308362597932
+feasibility = 3.406782697013e-05
+trustRadius = 0.0005347776327209175
+stepNorm = 0.001069555265441835
+INFO: theta-type step
+*************************
+****** Iteration 8 ******
+objectiveValue = 48.38311152405082
+feasibility = 8.500569849800854e-06
+trustRadius = 0.0013349492076641933
+stepNorm = 0.0005339796830656773
+INFO: theta-type step
+*************************
+****** Iteration 9 ******
+objectiveValue = 48.38311111590134
+feasibility = 1.3389048737266762e-05
+trustRadius = 0.0016696067952648441
+stepNorm = 0.0006678427181059376
+INFO: f-type step
+*************************
+****** Iteration 10 ******
+objectiveValue = 48.38310368711109
+feasibility = 3.0462580957291152e-05
+trustRadius = 0.00251578500050198
+stepNorm = 0.001006314000200792
+INFO: f-type step
+*************************
+****** Iteration 11 ******
+objectiveValue = 48.38308679451837
+feasibility = 6.932639030132748e-05
+trustRadius = 0.00251578500050198
+stepNorm = 0.0015211549192648555
+INFO: step rejected
+*************************
+****** Iteration 12 ******
+objectiveValue = 48.38309929162026
+feasibility = 1.737827202141773e-05
+trustRadius = 0.0019012974531917859
+stepNorm = 0.0007605189812767144
+INFO: f-type step
+*************************
+****** Iteration 13 ******
+objectiveValue = 48.383114960650516
+feasibility = 4.546390455217875e-06
+trustRadius = 0.0019012974531917859
+stepNorm = 0.00039013699227430365
+INFO: theta-type step
+*************************
+****** Iteration 14 ******
+objectiveValue = 48.383112438489825
+feasibility = 1.0347146801592544e-05
+trustRadius = 0.0019012974531917859
+stepNorm = 0.000587235962734578
+INFO: step rejected
+*************************
+****** Iteration 15 ******
+objectiveValue = 48.38311430757638
+feasibility = 2.5887371091215527e-06
+trustRadius = 0.0007339176510856582
+stepNorm = 0.0002935670604342633
+INFO: f-type step
+*************************
+****** Iteration 16 ******
+objectiveValue = 48.383116645620575
+feasibility = 6.714743232549836e-07
+trustRadius = 0.0007339176510856582
+stepNorm = 0.00014968227588507688
+INFO: theta-type step
+*************************
+****** Iteration 17 ******
+objectiveValue = 48.38311627349144
+feasibility = 1.527484936758583e-06
+trustRadius = 0.0007339176510856582
+stepNorm = 0.0002255619120736796
+INFO: f-type step
+*************************
+****** Iteration 18 ******
+objectiveValue = 48.383115426181284
+feasibility = 3.473931929676155e-06
+trustRadius = 0.0008500245020270913
+stepNorm = 0.00034000980081083654
+INFO: f-type step
+*************************
+****** Iteration 19 ******
+objectiveValue = 48.38311350110152
+feasibility = 7.898004254158764e-06
+trustRadius = 0.001282549915884168
+stepNorm = 0.0005130199663536672
+INFO: f-type step
+*************************
+****** Iteration 20 ******
+objectiveValue = 48.383109124859224
+feasibility = 1.795405308691045e-05
+trustRadius = 0.001931750578890723
+stepNorm = 0.0007727002315562892
+INFO: f-type step
+*************************
+****** Iteration 21 ******
+objectiveValue = 48.38309917703428
+feasibility = 4.0845171060510665e-05
+trustRadius = 0.001931750578890723
+stepNorm = 0.0011672732971832467
+INFO: step rejected
+*************************
+****** Iteration 22 ******
+objectiveValue = 48.38310654681489
+feasibility = 1.0230600612004537e-05
+trustRadius = 0.0014588749793265077
+stepNorm = 0.0005835499917306031
+INFO: f-type step
+*************************
+****** Iteration 23 ******
+objectiveValue = 48.3831157778495
+feasibility = 2.6667471377805896e-06
+trustRadius = 0.0014588749793265077
+stepNorm = 0.00029860623872179914
+INFO: theta-type step
+*************************
+****** Iteration 24 ******
+objectiveValue = 48.38311429898829
+feasibility = 6.067939766651875e-06
+trustRadius = 0.0014588749793265077
+stepNorm = 0.00044965043007438865
+INFO: f-type step
+*************************
+****** Iteration 25 ******
+objectiveValue = 48.383110932984465
+feasibility = 1.3807518243424965e-05
+trustRadius = 0.0016941927076430385
+stepNorm = 0.0006776770830572154
+INFO: f-type step
+*************************
+****** Iteration 26 ******
+objectiveValue = 48.383103273391406
+feasibility = 3.14231184432856e-05
+trustRadius = 0.0025592785101946625
+stepNorm = 0.001023711404077865
+INFO: f-type step
+*************************
+****** Iteration 27 ******
+objectiveValue = 48.3830858418179
+feasibility = 7.150516772647109e-05
+trustRadius = 0.0025592785101946625
+stepNorm = 0.00154111165697568
+INFO: step rejected
+*************************
+****** Iteration 28 ******
+objectiveValue = 48.383098810233584
+feasibility = 1.7820961030423632e-05
+trustRadius = 0.0019262043401646611
+stepNorm = 0.0007704817360658645
+INFO: f-type step
+*************************
+****** Iteration 29 ******
+objectiveValue = 48.38311495898514
+feasibility = 4.550730967167738e-06
+trustRadius = 0.0019262043401646611
+stepNorm = 0.00038816306718114646
+INFO: step rejected
+*************************
+****** Iteration 30 ******
+objectiveValue = 48.38311577676347
+feasibility = 1.1444167391516658e-06
+trustRadius = 0.00048494097039997186
+stepNorm = 0.00019397638815998874
+INFO: theta-type step
+*************************
+****** Iteration 31 ******
+objectiveValue = 48.38311680598389
+feasibility = 3.025036523496283e-07
+trustRadius = 0.00048494097039997186
+stepNorm = 0.00010042568326262824
+INFO: theta-type step
+*************************
+****** Iteration 32 ******
+objectiveValue = 48.383116638765586
+feasibility = 6.867617265982062e-07
+trustRadius = 0.00048494097039997186
+stepNorm = 0.0001512345778307278
+INFO: f-type step
+*************************
+****** Iteration 33 ******
+objectiveValue = 48.38311625868648
+feasibility = 1.5609853161180354e-06
+trustRadius = 0.00048494097039997186
+stepNorm = 0.00022793965728595822
+INFO: step rejected
+*************************
+****** Iteration 34 ******
+objectiveValue = 48.38311654463021
+feasibility = 3.854225489874352e-07
+trustRadius = 0.00028320211684307317
+stepNorm = 0.00011328084673722927
+INFO: f-type step
+*************************
+****** Iteration 35 ******
+objectiveValue = 48.38311689629179
+feasibility = 9.230892317191319e-08
+trustRadius = 0.00028320211684307317
+stepNorm = 5.53197231800695e-05
+INFO: theta-type step
+*************************
+****** Iteration 36 ******
+objectiveValue = 48.38311684822284
+feasibility = 2.0228661412602378e-07
+trustRadius = 0.00028320211684307317
+stepNorm = 8.201973883403824e-05
+INFO: f-type step
+*************************
+****** Iteration 37 ******
+objectiveValue = 48.38311673980382
+feasibility = 4.4946579436100365e-07
+trustRadius = 0.0003058053448945497
+stepNorm = 0.00012232213795781988
+INFO: f-type step
+*************************
+****** Iteration 38 ******
+objectiveValue = 48.38311649670395
+feasibility = 1.0072717717690693e-06
+trustRadius = 0.00045775725651120425
+stepNorm = 0.0001831029026044817
+INFO: f-type step
+*************************
+****** Iteration 39 ******
+objectiveValue = 48.38311594552719
+feasibility = 2.280397845666471e-06
+trustRadius = 0.00045775725651120425
+stepNorm = 0.0002756126868885822
+INFO: step rejected
+*************************
+****** Iteration 40 ******
+objectiveValue = 48.3831163592217
+feasibility = 5.688304103301789e-07
+trustRadius = 0.0003440378866936822
+stepNorm = 0.00013761515467747287
+INFO: f-type step
+*************************
+****** Iteration 41 ******
+objectiveValue = 48.38311687444543
+feasibility = 1.4478068521839305e-07
+trustRadius = 0.0003440378866936822
+stepNorm = 6.945105931377427e-05
+INFO: theta-type step
+*************************
+****** Iteration 42 ******
+objectiveValue = 48.38311679503937
+feasibility = 3.273087596511459e-07
+trustRadius = 0.0003440378866936822
+stepNorm = 0.00010440041591142091
+INFO: f-type step
+*************************
+****** Iteration 43 ******
+objectiveValue = 48.38311661446421
+feasibility = 7.426895205497885e-07
+trustRadius = 0.0003930853485067942
+stepNorm = 0.0001572341394027177
+INFO: f-type step
+*************************
+****** Iteration 44 ******
+objectiveValue = 48.38311620328303
+feasibility = 1.6871126558015703e-06
+trustRadius = 0.0003930853485067942
+stepNorm = 0.00023705640739191125
+INFO: step rejected
+*************************
+****** Iteration 45 ******
+objectiveValue = 48.38311651006935
+feasibility = 4.202978338696539e-07
+trustRadius = 0.00029572849999381923
+stepNorm = 0.00011829139999752769
+INFO: f-type step
+*************************
+****** Iteration 46 ******
+objectiveValue = 48.38311689128905
+feasibility = 1.059223802002407e-07
+trustRadius = 0.00029572849999381923
+stepNorm = 5.939152763989597e-05
+INFO: theta-type step
+*************************
+****** Iteration 47 ******
+objectiveValue = 48.3831168335744
+feasibility = 2.386534525555817e-07
+trustRadius = 0.00029572849999381923
+stepNorm = 8.914454738606636e-05
+INFO: f-type step
+*************************
+****** Iteration 48 ******
+objectiveValue = 48.38311670222272
+feasibility = 5.40763805290112e-07
+trustRadius = 0.00033542279141651754
+stepNorm = 0.00013416911656660702
+INFO: f-type step
+*************************
+****** Iteration 49 ******
+objectiveValue = 48.383116403191615
+feasibility = 1.22710967254136e-06
+trustRadius = 0.00033542279141651754
+stepNorm = 0.00020216580151410923
+INFO: step rejected
+*************************
+****** Iteration 50 ******
+objectiveValue = 48.383116627010146
+feasibility = 3.0517395366302935e-07
+trustRadius = 0.00025199155778254934
+stepNorm = 0.00010079662311301973
+INFO: f-type step
+*************************
+****** Iteration 51 ******
+objectiveValue = 48.38311690431103
+feasibility = 7.589002493091357e-08
+trustRadius = 0.00025199155778254934
+stepNorm = 5.0257895642058514e-05
+INFO: theta-type step
+*************************
+****** Iteration 52 ******
+objectiveValue = 48.383116863351404
+feasibility = 1.7016268749614483e-07
+trustRadius = 0.00025199155778254934
+stepNorm = 7.527110222005362e-05
+INFO: f-type step
+*************************
+****** Iteration 53 ******
+objectiveValue = 48.38311677000972
+feasibility = 3.8477839936490454e-07
+trustRadius = 0.0002829418841709952
+stepNorm = 0.00011317675366839808
+INFO: f-type step
+*************************
+****** Iteration 54 ******
+objectiveValue = 48.383116557625414
+feasibility = 8.716745281134308e-07
+trustRadius = 0.00042596059854904667
+stepNorm = 0.00017038423941961867
+INFO: f-type step
+*************************
+****** Iteration 55 ******
+objectiveValue = 48.383116076757695
+feasibility = 1.9745309902674535e-06
+trustRadius = 0.00042596059854904667
+stepNorm = 0.0002563534430159997
+INFO: step rejected
+*************************
+****** Iteration 56 ******
+objectiveValue = 48.38311643919551
+feasibility = 4.888431668348403e-07
+trustRadius = 0.0003189496753208676
+stepNorm = 0.00012757987012834704
+INFO: f-type step
+*************************
+****** Iteration 57 ******
+objectiveValue = 48.38311688515576
+feasibility = 1.1783992270864019e-07
+trustRadius = 0.0003189496753208676
+stepNorm = 6.252297750508617e-05
+INFO: theta-type step
+*************************
+****** Iteration 58 ******
+objectiveValue = 48.383116823025425
+feasibility = 2.604690649832264e-07
+trustRadius = 0.0003189496753208676
+stepNorm = 9.308471878943791e-05
+INFO: f-type step
+*************************
+****** Iteration 59 ******
+objectiveValue = 48.38311668206531
+feasibility = 5.82160318174374e-07
+trustRadius = 0.00034805155837980273
+stepNorm = 0.0001392206233519211
+INFO: f-type step
+*************************
+****** Iteration 60 ******
+objectiveValue = 48.38311636547662
+feasibility = 1.3134390819402597e-06
+trustRadius = 0.00034805155837980273
+stepNorm = 0.00020908762081628396
+INFO: step rejected
+*************************
+****** Iteration 61 ******
+objectiveValue = 48.38311660595096
+feasibility = 3.2550053141733315e-07
+trustRadius = 0.0002602521627415033
+stepNorm = 0.00010410086509660132
+INFO: f-type step
+*************************
+****** Iteration 62 ******
+objectiveValue = 48.38311690239452
+feasibility = 7.8300725903091e-08
+trustRadius = 0.0002602521627415033
+stepNorm = 5.0936000798529335e-05
+INFO: theta-type step
+*************************
+****** Iteration 63 ******
+objectiveValue = 48.38311686205943
+feasibility = 1.7031544530254905e-07
+trustRadius = 0.0002602521627415033
+stepNorm = 7.524973605121943e-05
+INFO: f-type step
+*************************
+****** Iteration 64 ******
+objectiveValue = 48.38311677154557
+feasibility = 3.76486466890924e-07
+trustRadius = 0.0002798664446879151
+stepNorm = 0.00011194657787516604
+INFO: f-type step
+*************************
+****** Iteration 65 ******
+objectiveValue = 48.383116568908434
+feasibility = 8.407298022206078e-07
+trustRadius = 0.0004182054983836725
+stepNorm = 0.000167282199353469
+INFO: f-type step
+*************************
+****** Iteration 66 ******
+objectiveValue = 48.3831161106676
+feasibility = 1.9002385993616144e-06
+trustRadius = 0.0004182054983836725
+stepNorm = 0.00025158724323492976
+INFO: step rejected
+*************************
+****** Iteration 67 ******
+objectiveValue = 48.38311645587948
+feasibility = 4.7365144340005827e-07
+trustRadius = 0.00031393770180687675
+stepNorm = 0.0001255750807227507
+INFO: f-type step
+*************************
+****** Iteration 68 ******
+objectiveValue = 48.38311688524594
+feasibility = 1.198648078570841e-07
+trustRadius = 0.00031393770180687675
+stepNorm = 6.31852005601452e-05
+INFO: step rejected
+*************************
+****** Iteration 69 ******
+objectiveValue = 48.38311691167081
+feasibility = 2.443753466252474e-08
+trustRadius = 7.118324079846694e-05
+stepNorm = 2.8473296319386776e-05
+INFO: theta-type step
+*************************
+****** Iteration 70 ******
+objectiveValue = 48.38311693694905
+feasibility = 2.0018173785274485e-09
+trustRadius = 7.118324079846694e-05
+stepNorm = 8.162404204536955e-06
+INFO: theta-type step
+*************************
+EXIT: Optimal solution found.
+Model unknown
+
+  Variables:
+    x1 : Size=1, Index=None
+        Key  : Lower               : Value               : Upper              : Fixed : Stale : Domain
+        None : -2.2477752435545204 : -2.2477122227179267 : -2.247632877072924 : False : False :  Reals
+    x2 : Size=1, Index=None
+        Key  : Lower : Value               : Upper : Fixed : Stale : Domain
+        None :  -2.0 : -0.3380723831564263 :  None : False : False :  Reals
+
+  Objectives:
+    obj : Size=1, Index=None, Active=True
+        Key  : Active : Value
+        None :   True : 48.38311693694905
+
+  Constraints:
+    c1 : Size=1
+        Key  : Lower : Body                   : Upper
+        None :   0.0 : 1.5543122344752192e-15 :   0.0
+
+  Blocks:
+    Block trf_data
+    
+      Variables:
+        ef_outputs : Size=2, Index={1, 2}
+            Key : Lower : Value             : Upper : Fixed : Stale : Domain
+              1 :  None : 5.166503171407719 :  None : False : False :  Reals
+              2 :  None : 5.166503171407719 :  None : False : False :  Reals
+    
+      Objectives:
+        None
+    
+      Constraints:
+        sm_constraint_basis : Size=2
+            Key : Lower : Body : Upper
+              1 :   0.0 :  0.0 :   0.0
+              2 :   0.0 :  0.0 :   0.0

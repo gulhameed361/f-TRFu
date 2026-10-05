@@ -1,0 +1,151 @@
+****** Iteration 0 ******
+objectiveValue = 13.31
+feasibility = 7.9300003301206665
+trustRadius = 1.0
+stepNorm = 0
+*************************
+****** Iteration 1 ******
+objectiveValue = 0.06059435782492663
+feasibility = 0.20264998112967575
+trustRadius = 1.0
+stepNorm = 0.295133239864833
+INFO: f-type step
+*************************
+****** Iteration 2 ******
+objectiveValue = 0.0574570765554214
+feasibility = 0.0018505596260617319
+trustRadius = 1.0
+stepNorm = 0.026727485941404394
+INFO: f-type step
+*************************
+****** Iteration 3 ******
+objectiveValue = 0.05745294688213463
+feasibility = 1.5291767746672402e-05
+trustRadius = 1.0
+stepNorm = 0.0037163717037647093
+INFO: step rejected
+*************************
+****** Iteration 4 ******
+objectiveValue = 0.05745408426220878
+feasibility = 4.888328173857648e-06
+trustRadius = 0.0018581858518823546
+stepNorm = 0.001856079656876064
+INFO: step rejected
+*************************
+****** Iteration 5 ******
+objectiveValue = 0.05745550687430774
+feasibility = 1.8449998391290023e-06
+trustRadius = 0.000928039828438032
+stepNorm = 0.0009266510605026035
+INFO: step rejected
+*************************
+****** Iteration 6 ******
+objectiveValue = 0.05745686502213355
+feasibility = 5.772145929006101e-07
+trustRadius = 0.00046332553025130174
+stepNorm = 0.00046308342079925957
+INFO: step rejected
+*************************
+****** Iteration 7 ******
+objectiveValue = 0.057457990437895616
+feasibility = 1.843933824519084e-07
+trustRadius = 0.00011569020714746747
+stepNorm = 0.00023138041429493494
+INFO: theta-type step
+*************************
+****** Iteration 8 ******
+objectiveValue = 0.057457414347672923
+feasibility = 2.730861037303356e-08
+trustRadius = 0.00011569020714746747
+stepNorm = 0.00011506601346478185
+INFO: step rejected
+*************************
+****** Iteration 9 ******
+objectiveValue = 0.057457699761499816
+feasibility = 4.92349605529796e-09
+trustRadius = 5.753300673239092e-05
+stepNorm = 5.722886213477274e-05
+INFO: step rejected
+*************************
+****** Iteration 10 ******
+objectiveValue = 0.05745784535381626
+feasibility = 1.1684138101486496e-09
+trustRadius = 2.861443106738637e-05
+stepNorm = 2.813359672226845e-05
+INFO: step rejected
+*************************
+****** Iteration 11 ******
+objectiveValue = 0.057457925112645705
+feasibility = 8.12813705231008e-11
+trustRadius = 1.4066798361134225e-05
+stepNorm = 1.34833036063986e-05
+INFO: step rejected
+*************************
+****** Iteration 12 ******
+objectiveValue = 0.057457959201879
+feasibility = 1.9956536423393345e-11
+trustRadius = 6.7416518031993e-06
+stepNorm = 6.602080478979033e-06
+INFO: step rejected
+*************************
+EXIT: Optimal solution found.
+Model unknown
+
+  Variables:
+    x : Size=6, Index={0, 1, 2, 3, 4, 5}
+        Key : Lower              : Value              : Upper              : Fixed : Stale : Domain
+          0 : 0.8027903981832856 : 0.8027971398350888 : 0.8028038814868921 : False : False :  Reals
+          1 : 1.3021452714449455 : 1.3021520130967488 :  1.302158754748552 : False : False :  Reals
+          2 : 0.8783126880758947 : 0.8783194297276978 :  0.878326171379501 : False : False :  Reals
+          3 : 1.1697751413190427 :  1.169781882970846 : 1.1697886246226492 : False : False :  Reals
+          4 : 0.7810009585752753 : 0.7810077002270784 : 0.7810144418788816 : False : False :  Reals
+          5 : 1.3220401155355717 :  1.322046857187375 : 1.3220535988391782 : False : False :  Reals
+    y : Size=6, Index={0, 1, 2, 3, 4, 5}
+        Key : Lower : Value              : Upper : Fixed : Stale : Domain
+          0 :   -50 : 1.2387088383517784 :    50 : False : False :  Reals
+          1 :   -50 :  0.826192670205538 :    50 : False : False :  Reals
+          2 :   -50 : 2.5177513681381916 :    50 : False : False :  Reals
+          3 :   -50 : 1.0593004725625452 :    50 : False : False :  Reals
+          4 :   -50 : 1.8232810663047252 :    50 : False : False :  Reals
+          5 :   -50 :   0.47570334869916 :    50 : False : False :  Reals
+
+  Objectives:
+    obj : Size=1, Index=None, Active=True
+        Key  : Active : Value
+        None :   True : 0.057457990437895616
+
+  Constraints:
+    chain : Size=6
+        Key : Lower : Body : Upper
+          0 :   0.0 :  0.0 :   0.0
+          1 :   0.0 :  0.0 :   0.0
+          2 :   0.0 :  0.0 :   0.0
+          3 :   0.0 :  0.0 :   0.0
+          4 :   0.0 :  0.0 :   0.0
+          5 :   0.0 :  0.0 :   0.0
+
+  Blocks:
+    Block trf_data
+    
+      Variables:
+        ef_outputs : Size=6, Index={1, 2, 3, 4, 5, 6}
+            Key : Lower : Value              : Upper : Fixed : Stale : Domain
+              1 :  None : 1.2387088383517784 :  None : False : False :  Reals
+              2 :  None :  0.826192670205538 :  None : False : False :  Reals
+              3 :  None : 2.5177513681381916 :  None : False : False :  Reals
+              4 :  None : 1.0593004725625452 :  None : False : False :  Reals
+              5 :  None : 1.8232810663047252 :  None : False : False :  Reals
+              6 :  None :   0.47570334869916 :  None : False : False :  Reals
+    
+      Objectives:
+        None
+    
+      Constraints:
+        sm_constraint_basis : Size=6
+            Key : Lower : Body                    : Upper
+              1 :   0.0 : -4.7711014472540114e-08 :   0.0
+              2 :   0.0 :  -1.635720425774423e-08 :   0.0
+              3 :   0.0 :   4.304238654384562e-08 :   0.0
+              4 :   0.0 :    2.91190194179336e-08 :   0.0
+              5 :   0.0 :   4.050190693938305e-08 :   0.0
+              6 :   0.0 :    7.66185082046178e-09 :   0.0

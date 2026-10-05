@@ -1,0 +1,109 @@
+****** Iteration 0 ******
+objectiveValue = 13.31
+feasibility = 7.9300003301206665
+trustRadius = 1.0
+stepNorm = 0
+*************************
+****** Iteration 1 ******
+objectiveValue = 0.06059435782492663
+feasibility = 0.20264998112967575
+trustRadius = 0.1475666199324165
+stepNorm = 0.295133239864833
+INFO: theta-type step
+*************************
+****** Iteration 2 ******
+objectiveValue = 0.0574570765554225
+feasibility = 0.0018505583958337013
+trustRadius = 0.013363714470473576
+stepNorm = 0.02672742894094715
+INFO: theta-type step
+*************************
+****** Iteration 3 ******
+objectiveValue = 0.05745294689604384
+feasibility = 1.5288572329852368e-05
+trustRadius = 0.0018579753563843227
+stepNorm = 0.0037159507127686453
+INFO: theta-type step
+*************************
+****** Iteration 4 ******
+objectiveValue = 0.05745244989489225
+feasibility = 1.1383899828354416e-07
+trustRadius = 0.0018579753563843227
+stepNorm = 0.0003720761704064657
+INFO: f-type step
+*************************
+****** Iteration 5 ******
+objectiveValue = 0.05745244297805362
+feasibility = 1.621411560570607e-09
+trustRadius = 0.0018579753563843227
+stepNorm = 4.4155444166360525e-05
+INFO: f-type step
+*************************
+****** Iteration 6 ******
+objectiveValue = 0.05745244288069854
+feasibility = 3.3915648067761595e-12
+trustRadius = 0.0018579753563843227
+stepNorm = 1.9642887383319874e-06
+INFO: f-type step
+*************************
+EXIT: Optimal solution found.
+Model unknown
+
+  Variables:
+    x : Size=6, Index={0, 1, 2, 3, 4, 5}
+        Key : Lower              : Value              : Upper              : Fixed : Stale : Domain
+          0 : 0.8004075346150273 : 0.8022659673310762 :  0.804123485327796 : False : False :  Reals
+          1 : 1.3011123088167802 : 1.3029698335403435 : 1.3048282595295488 : False : False :  Reals
+          2 : 0.8756333181002344 : 0.8774910847961575 :  0.879349268813003 : False : False :  Reals
+          3 : 1.1695192558410021 : 1.1713776179103947 : 1.1732352065537708 : False : False :  Reals
+          4 : 0.7771055098693557 : 0.7789626305108399 : 0.7808214605821243 : False : False :  Reals
+          5 :  1.324134896591407 : 1.3259948362365297 : 1.3278508473041757 : False : False :  Reals
+    y : Size=6, Index={0, 1, 2, 3, 4, 5}
+        Key : Lower : Value               : Upper : Fixed : Stale : Domain
+          0 :   -50 :   1.238417558609899 :    50 : False : False :  Reals
+          1 :   -50 :  0.8263317644123374 :    50 : False : False :  Reals
+          2 :   -50 :    2.51774119563044 :    50 : False : False :  Reals
+          3 :   -50 :  1.0592776381533742 :    50 : False : False :  Reals
+          4 :   -50 :  1.8224028893996513 :    50 : False : False :  Reals
+          5 :   -50 : 0.47738376650551145 :    50 : False : False :  Reals
+
+  Objectives:
+    obj : Size=1, Index=None, Active=True
+        Key  : Active : Value
+        None :   True : 0.05745244288069854
+
+  Constraints:
+    chain : Size=6
+        Key : Lower : Body : Upper
+          0 :   0.0 :  0.0 :   0.0
+          1 :   0.0 :  0.0 :   0.0
+          2 :   0.0 :  0.0 :   0.0
+          3 :   0.0 :  0.0 :   0.0
+          4 :   0.0 :  0.0 :   0.0
+          5 :   0.0 :  0.0 :   0.0
+
+  Blocks:
+    Block trf_data
+    
+      Variables:
+        ef_outputs : Size=6, Index={1, 2, 3, 4, 5, 6}
+            Key : Lower : Value               : Upper : Fixed : Stale : Domain
+              1 :  None :   1.238417558609899 :  None : False : False :  Reals
+              2 :  None :  0.8263317644123374 :  None : False : False :  Reals
+              3 :  None :    2.51774119563044 :  None : False : False :  Reals
+              4 :  None :  1.0592776381533742 :  None : False : False :  Reals
+              5 :  None :  1.8224028893996513 :  None : False : False :  Reals
+              6 :  None : 0.47738376650551145 :  None : False : False :  Reals
+    
+      Objectives:
+        None
+    
+      Constraints:
+        sm_constraint_basis : Size=6
+            Key : Lower : Body                   : Upper
+              1 :   0.0 :  4.440892098500626e-16 :   0.0
+              2 :   0.0 :                    0.0 :   0.0
+              3 :   0.0 :                    0.0 :   0.0
+              4 :   0.0 :  2.220446049250313e-16 :   0.0
+              5 :   0.0 :  2.220446049250313e-16 :   0.0
+              6 :   0.0 : 1.1102230246251565e-16 :   0.0

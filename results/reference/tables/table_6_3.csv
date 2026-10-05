@@ -1,0 +1,9 @@
+Problem,Initial TR radius,f-TRFu (Taylor),c-TRFu (Linear),c-TRFu (Quadratic)
+Eason,1,19,21,27
+Wing Weight,1,11,48,90
+Loeppky,1,6,16,34
+Welded Beam,1,27,80,125
+Himmelblau,500,360,Fail,Max_iter
+Colville,500,24,Max_iter,4410
+Six_BB_Chain,1,162,3222,3672
+High_dim_sep_10,1,230,24720,38380

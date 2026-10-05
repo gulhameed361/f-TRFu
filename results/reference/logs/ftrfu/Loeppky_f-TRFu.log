@@ -1,0 +1,45 @@
+****** Iteration 0 ******
+objectiveValue = -1.5539565961008237e-07
+feasibility = 4.706523608074169e-16
+trustRadius = 1.0
+stepNorm = 0
+*************************
+EXIT: Optimal solution found.
+Model unknown
+
+  Variables:
+    x : Size=7, Index=[1:7]
+        Key : Lower : Value                  : Upper : Fixed : Stale : Domain
+          1 :     0 : -9.582255117404945e-09 :     1 : False : False :  Reals
+          2 :     0 : -9.373257431629507e-09 :     1 : False : False :  Reals
+          3 :     0 : -9.544229334197438e-09 :     1 : False : False :  Reals
+          4 :     0 : -7.490702499158926e-09 :     1 : False : False :  Reals
+          5 :     0 : -4.974622963525397e-09 :     1 : False : False :  Reals
+          6 :     0 :  2.614074025699618e-09 :     1 : False : False :  Reals
+          7 :     0 : 1.5393612094882097e-08 :     1 : False : False :  Reals
+
+  Objectives:
+    obj : Size=1, Index=None, Active=True
+        Key  : Active : Value
+        None :   True : -1.5539565961008237e-07
+
+  Constraints:
+    dof_scan : Size=1
+        Key  : Lower : Body                    : Upper
+        None :  None : -2.2957381225334498e-08 : 10000000000.0
+
+  Blocks:
+    Block trf_data
+    
+      Variables:
+        ef_outputs : Size=1, Index={1}
+            Key : Lower : Value : Upper : Fixed : Stale : Domain
+              1 :  None :   0.0 :  None : False : False :  Reals
+    
+      Objectives:
+        None
+    
+      Constraints:
+        sm_constraint_basis : Size=1
+            Key : Lower : Body                   : Upper
+              1 :   0.0 : -4.706523608074169e-16 :   0.0

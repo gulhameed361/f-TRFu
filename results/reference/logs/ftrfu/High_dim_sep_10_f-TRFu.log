@@ -1,0 +1,122 @@
+****** Iteration 0 ******
+objectiveValue = 2.964251950382933e-19
+feasibility = 12.945394672183427
+trustRadius = 1.0
+stepNorm = 0
+*************************
+****** Iteration 1 ******
+objectiveValue = 1.2288405238154048
+feasibility = 0.0332365343681853
+trustRadius = 0.053053506616487556
+stepNorm = 0.10610701323297511
+INFO: theta-type step
+*************************
+****** Iteration 2 ******
+objectiveValue = 1.2319960423023564
+feasibility = 8.505215011966882e-05
+trustRadius = 0.002684901341080126
+stepNorm = 0.005369802682160252
+INFO: theta-type step
+*************************
+****** Iteration 3 ******
+objectiveValue = 1.2320041172998915
+feasibility = 2.1547439299496318e-07
+trustRadius = 0.002684901341080126
+stepNorm = 0.000270256202039576
+INFO: theta-type step
+*************************
+****** Iteration 4 ******
+objectiveValue = 1.232004137962085
+feasibility = 4.4740788851527213e-10
+trustRadius = 0.002684901341080126
+stepNorm = 1.219599301371943e-05
+INFO: theta-type step
+*************************
+****** Iteration 5 ******
+objectiveValue = 1.2320041380047069
+feasibility = 6.890044090823721e-13
+trustRadius = 0.002684901341080126
+stepNorm = 4.791655707769849e-07
+INFO: theta-type step
+*************************
+EXIT: Optimal solution found.
+Model unknown
+
+  Variables:
+    x : Size=10, Index={0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+        Key : Lower              : Value              : Upper              : Fixed : Stale : Domain
+          0 : 0.9444613868484372 : 0.9471460313462144 : 0.9498311895305974 : False : False :  Reals
+          1 : 1.4203968255432344 : 1.4230813566975762 : 1.4257666282253947 : False : False :  Reals
+          2 : 1.8963198276604003 : 1.8990042498359097 : 1.9016896303425606 : False : False :  Reals
+          3 : 0.9444613868484372 : 0.9471460313462144 : 0.9498311895305974 : False : False :  Reals
+          4 : 1.4203968255432344 : 1.4230813566975762 : 1.4257666282253947 : False : False :  Reals
+          5 : 1.8963198276604003 : 1.8990042498359097 : 1.9016896303425606 : False : False :  Reals
+          6 : 0.9444613868484372 : 0.9471460313462144 : 0.9498311895305974 : False : False :  Reals
+          7 : 1.4203968255432344 : 1.4230813566975762 : 1.4257666282253947 : False : False :  Reals
+          8 : 1.8963198276604003 : 1.8990042498359097 : 1.9016896303425606 : False : False :  Reals
+          9 : 0.9444613868484372 : 0.9471460313462144 : 0.9498311895305974 : False : False :  Reals
+    y : Size=10, Index={0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+        Key : Lower : Value              : Upper : Fixed : Stale : Domain
+          0 : -50.0 : 0.5478878630633732 : 200.0 : False : False :  Reals
+          1 : -50.0 : 1.1655121271273956 : 200.0 : False : False :  Reals
+          2 : -50.0 :  2.012237763050796 : 200.0 : False : False :  Reals
+          3 : -50.0 : 0.5478878630633732 : 200.0 : False : False :  Reals
+          4 : -50.0 : 1.1655121271273956 : 200.0 : False : False :  Reals
+          5 : -50.0 :  2.012237763050796 : 200.0 : False : False :  Reals
+          6 : -50.0 : 0.5478878630633732 : 200.0 : False : False :  Reals
+          7 : -50.0 : 1.1655121271273956 : 200.0 : False : False :  Reals
+          8 : -50.0 :  2.012237763050796 : 200.0 : False : False :  Reals
+          9 : -50.0 : 0.5478878630633732 : 200.0 : False : False :  Reals
+
+  Objectives:
+    obj : Size=1, Index=None, Active=True
+        Key  : Active : Value
+        None :   True : 1.2320041380047069
+
+  Constraints:
+    link : Size=10
+        Key : Lower : Body : Upper
+          0 :   0.0 :  0.0 :   0.0
+          1 :   0.0 :  0.0 :   0.0
+          2 :   0.0 :  0.0 :   0.0
+          3 :   0.0 :  0.0 :   0.0
+          4 :   0.0 :  0.0 :   0.0
+          5 :   0.0 :  0.0 :   0.0
+          6 :   0.0 :  0.0 :   0.0
+          7 :   0.0 :  0.0 :   0.0
+          8 :   0.0 :  0.0 :   0.0
+          9 :   0.0 :  0.0 :   0.0
+
+  Blocks:
+    Block trf_data
+    
+      Variables:
+        ef_outputs : Size=10, Index={1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+            Key : Lower : Value              : Upper : Fixed : Stale : Domain
+              1 :  None : 0.5478878630633732 :  None : False : False :  Reals
+              2 :  None : 1.1655121271273956 :  None : False : False :  Reals
+              3 :  None :  2.012237763050796 :  None : False : False :  Reals
+              4 :  None : 0.5478878630633732 :  None : False : False :  Reals
+              5 :  None : 1.1655121271273956 :  None : False : False :  Reals
+              6 :  None :  2.012237763050796 :  None : False : False :  Reals
+              7 :  None : 0.5478878630633732 :  None : False : False :  Reals
+              8 :  None : 1.1655121271273956 :  None : False : False :  Reals
+              9 :  None :  2.012237763050796 :  None : False : False :  Reals
+             10 :  None : 0.5478878630633732 :  None : False : False :  Reals
+    
+      Objectives:
+        None
+    
+      Constraints:
+        sm_constraint_basis : Size=10
+            Key : Lower : Body                    : Upper
+              1 :   0.0 : -1.1102230246251565e-16 :   0.0
+              2 :   0.0 :   2.220446049250313e-16 :   0.0
+              3 :   0.0 :                     0.0 :   0.0
+              4 :   0.0 : -1.1102230246251565e-16 :   0.0
+              5 :   0.0 :   2.220446049250313e-16 :   0.0
+              6 :   0.0 :                     0.0 :   0.0
+              7 :   0.0 : -1.1102230246251565e-16 :   0.0
+              8 :   0.0 :   2.220446049250313e-16 :   0.0
+              9 :   0.0 :                     0.0 :   0.0
+             10 :   0.0 : -1.1102230246251565e-16 :   0.0

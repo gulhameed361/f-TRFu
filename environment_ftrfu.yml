@@ -1,0 +1,11 @@
+name: ftrfu
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy=1.26.4
+  - matplotlib-base=3.10
+  - ipopt=3.14.13
+  - pip
+  - pip:
+      - pyomo==6.10.1

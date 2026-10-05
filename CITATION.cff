@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "f-TRFu: feasible trust-region funnel method for grey-box optimisation"
+abstract: "Scripts, problem definitions and reference results that reproduce Chapter 6 of the PhD thesis “Rigorous Trust-Region Algorithms for Surrogate-based Grey-box Optimisation”: f-TRFu and s-TRFi (Pyomo trust-region solver) against the classical c-TRFu and c-TRFi (TRF-Solver), Tables 6.1-6.3 and Figures 6.2-6.3."
+authors:
+  - family-names: Hameed
+    given-names: Gul
+    affiliation: "School of Chemistry and Chemical Engineering, University of Surrey"
+version: "1.0.0"
+date-released: "2026-10-05"
+license: MIT
+keywords:
+  - "grey-box optimisation"
+  - "trust-region methods"
+  - "funnel"
+  - "filter"
+  - "reduced models"
+  - "Pyomo"
+references:
+  - type: thesis
+    title: "Rigorous Trust-Region Algorithms for Surrogate-based Grey-box Optimisation"
+    authors:
+      - family-names: Hameed
+        given-names: Gul
+    institution:
+      name: "University of Surrey"
+    year: 2026
+    thesis-type: "PhD thesis"

@@ -1,0 +1,5 @@
+Method,Surrogate,P1 iterations,P2 iterations
+f-TRFu,Taylor,32,15
+s-TRFi,Taylor,489,70
+c-TRFu,Linear,Fail,Fail
+c-TRFi,Linear,Fail,Fail

@@ -1,0 +1,9 @@
+name: trf-classical
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8.20
+  - pyomo=6.2
+  - numpy=1.24.4
+  - psutil=5.9.0
+  - ipopt=3.14.13

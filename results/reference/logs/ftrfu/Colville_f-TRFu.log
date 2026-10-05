@@ -1,0 +1,72 @@
+****** Iteration 0 ******
+objectiveValue = 10122.49309137712
+feasibility = 3.122502256758253e-16
+trustRadius = 500.0
+stepNorm = 0
+*************************
+EXIT: Optimal solution found.
+Model unknown
+
+  Variables:
+    x1 : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :    78 : 77.99999922016482 :   102 : False : False :  Reals
+    x2 : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :    33 : 32.99999967009553 :    45 : False : False :  Reals
+    x3 : Size=1, Index=None
+        Key  : Lower : Value              : Upper : Fixed : Stale : Domain
+        None :    27 : 29.995739568963174 :    45 : False : False :  Reals
+    x4 : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :    27 : 45.00000044969759 :    45 : False : False :  Reals
+    x5 : Size=1, Index=None
+        Key  : Lower : Value             : Upper : Fixed : Stale : Domain
+        None :    27 : 36.77532790533347 :    45 : False : False :  Reals
+
+  Objectives:
+    obj : Size=1, Index=None, Active=True
+        Key  : Active : Value
+        None :   True : 10122.49309137712
+
+  Constraints:
+    c1 : Size=1
+        Key  : Lower : Body               : Upper
+        None :  None : -1.309991036822047 :   0.0
+    c2 : Size=1
+        Key  : Lower : Body                  : Upper
+        None :  None : 9.997003225237222e-09 :   0.0
+    c3 : Size=1
+        Key  : Lower : Body                : Upper
+        None :  None : -1.0213799453012782 :   0.0
+    c4 : Size=1
+        Key  : Lower : Body                : Upper
+        None :  None : -0.3785973428187923 :   0.0
+    c5 : Size=1
+        Key  : Lower : Body                 : Upper
+        None :  None : 9.99808158486104e-09 :   0.0
+    c6 : Size=1
+        Key  : Lower : Body               : Upper
+        None :  None : -0.299755178698247 :   0.0
+
+  Blocks:
+    Block trf_data
+    
+      Variables:
+        ef_outputs : Size=4, Index={1, 2, 3, 4}
+            Key : Lower : Value               : Upper : Fixed : Stale : Domain
+              1 :  None : -0.0523570368232341 :  None : False : False :  Reals
+              2 :  None : 0.20538261062414423 :  None : False : False :  Reals
+              3 :  None :  1.4966046964203783 :  None : False : False :  Reals
+              4 :  None :  2397.1850154112153 :  None : False : False :  Reals
+    
+      Objectives:
+        None
+    
+      Constraints:
+        sm_constraint_basis : Size=4
+            Key : Lower : Body                   : Upper
+              1 :   0.0 : -6.938893903907228e-18 :   0.0
+              2 :   0.0 : -8.326672684688674e-17 :   0.0
+              3 :   0.0 :  2.220446049250313e-16 :   0.0
+              4 :   0.0 :                    0.0 :   0.0
